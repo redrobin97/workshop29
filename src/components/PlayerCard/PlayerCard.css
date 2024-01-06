@@ -1,0 +1,12 @@
+.player-card-container {
+  display: flex;
+  flex-direction: column;
+  width: 27%;
+  align-items: center;
+  border: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.player-card-container img {
+  max-width: 90%;
+}
